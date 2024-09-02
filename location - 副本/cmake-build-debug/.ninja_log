@@ -1,0 +1,5 @@
+# ninja log v5
+1	103	7215763105923449	CMakeFiles/location.dir/main.c.obj	18a3b1bea9ab1de
+8	119	7215762101504745	CMakeFiles/location.dir/satellite.c.obj	4775ad22b8f4a91e
+85	201	7215736856996152	location.exe	6fae57a20c161f8c
+0	320	7216626961066781	build.ninja	ff713fe19ad0ba9
